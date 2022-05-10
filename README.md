@@ -1,2 +1,7 @@
-# CodingBat-solutions
-Solutions to CodingBat coding challenges #codingchallenges #codingbat #
+## CodingBat-solutions
+
+
+Solutions to CodingBat coding challenges 
+
+
+[Codingbat]('codingbat.com.na')
